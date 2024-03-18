@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 831da4feb4e545a4b99132521f6963c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mockup2x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514cf600f473a048aac66e505121476
+      internalID: 338325467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eea3810bf24a94a8a805e741e778d7
+      internalID: 539288749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398499b8ef566ff4aa0c954dcaeb7cfd
+      internalID: -1725291265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16334c07c718d24286025a6bef90721
+      internalID: 1836927129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd797ac5b140bc4199dcbc5a1d1106f
+      internalID: 1209385553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7d1b48bac06e34fb36efeb6a96d131
+      internalID: -925460680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a2f21b7b34a1b47b213b8205e7de9e
+      internalID: -301890822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 307.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20124200817a5c40b7816586e27dca9
+      internalID: -590203158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b2082baefe7341a9690b2a2c8d5b7
+      internalID: -2026508969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8575f243a50f848b2102aa77d9e25b
+      internalID: -1453074005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4fd21e5f59cf047b38d14df63065ac
+      internalID: -1051802845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576a428a0c5f3d64685eb78c48ff5117
+      internalID: -1154094661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1117a61940a741a9047521e69b03a
+      internalID: -422554482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d88bf70ef9eda4fba77264463ebe3a
+      internalID: 350175610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd8019c5639664687bacdb5bc14d10
+      internalID: -171766319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 231.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887bd7d3b0f2764d906eda425a1995c
+      internalID: -844935856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04034faf83fd2f84fa669c211ae76653
+      internalID: -1842350742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c84bdcf58ffd45bde6389c9348257
+      internalID: 562931969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd5b07bfeb70043a771e7cac1a2d7a
+      internalID: -384927627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a076f4378a2494095a2318e18839b8
+      internalID: 1559224878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0609b29bab0f1fa41b4b7ab08fad0a78
+      internalID: -1163104321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9b23d29dd5774cb62d78b52acc456
+      internalID: 1520926078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419cae2ac07f000428f17df5ef60227c
+      internalID: 345063452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 155.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e33cc3013e030c4a8ec27ebcb05a7b8
+      internalID: 253248814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd8a86ca6418bf4d8ce7bb23a65d146
+      internalID: -796096286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ba8010504bbf4a9960fffebae83e8
+      internalID: 2035986389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454c90c1e2b324d49a5575459786bb21
+      internalID: 254204598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401cb170b965fd9449481c43a46b872c
+      internalID: -750553791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea6a8d363ab07f48bf8d8193ecd0c2e
+      internalID: 1547388635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaf283b1ebcf9d43a0b5ba7979349a9
+      internalID: 1816083974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5750d70c50f6d4a876cc858d852df6
+      internalID: -1303505249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 79.2
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01034b6a8ef7544b170f02aad497fa
+      internalID: 1906070992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc461803bac7d64b9d265f8492c194c
+      internalID: 2062362231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00a64eaedf280441b90a2c43e6367ec
+      internalID: 944096971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854b4a64a0ba6b45a73cd25725ad555
+      internalID: -1517892419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f6cd13c4fa6d4f95652ad612e7078
+      internalID: 146556391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123e1ddaf63da44ab157a9fa887026d
+      internalID: 1724766720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf180ea7a8bda44f84187c359e60799
+      internalID: -1515027509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad15c3cc4f71e40ac8f2df923888b9
+      internalID: -399609687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mockup2x_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 3.199997
+        width: 80
+        height: 76.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a2ab6a147e424b877c8a34d2a0692
+      internalID: 595286736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mockup2x_0: 338325467
+      Mockup2x_1: 539288749
+      Mockup2x_10: -1051802845
+      Mockup2x_11: -1154094661
+      Mockup2x_12: -422554482
+      Mockup2x_13: 350175610
+      Mockup2x_14: -171766319
+      Mockup2x_15: -844935856
+      Mockup2x_16: -1842350742
+      Mockup2x_17: 562931969
+      Mockup2x_18: -384927627
+      Mockup2x_19: 1559224878
+      Mockup2x_2: -1725291265
+      Mockup2x_20: -1163104321
+      Mockup2x_21: 1520926078
+      Mockup2x_22: 345063452
+      Mockup2x_23: 253248814
+      Mockup2x_24: -796096286
+      Mockup2x_25: 2035986389
+      Mockup2x_26: 254204598
+      Mockup2x_27: -750553791
+      Mockup2x_28: 1547388635
+      Mockup2x_29: 1816083974
+      Mockup2x_3: 1836927129
+      Mockup2x_30: -1303505249
+      Mockup2x_31: 1906070992
+      Mockup2x_32: 2062362231
+      Mockup2x_33: 944096971
+      Mockup2x_34: -1517892419
+      Mockup2x_35: 146556391
+      Mockup2x_36: 1724766720
+      Mockup2x_37: -1515027509
+      Mockup2x_38: -399609687
+      Mockup2x_39: 595286736
+      Mockup2x_4: 1209385553
+      Mockup2x_5: -925460680
+      Mockup2x_6: -301890822
+      Mockup2x_7: -590203158
+      Mockup2x_8: -2026508969
+      Mockup2x_9: -1453074005
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
